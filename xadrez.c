@@ -2,7 +2,7 @@
 
 int main() {
 
-	// Movimento da Torre
+    // Movimento da Torre
     printf("Movimento da Torre:\n");
     for (int i = 0; i < 5; i++) {
         printf("Direita\n"); // 5 casas para a direita
